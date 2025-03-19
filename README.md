@@ -5,7 +5,7 @@
 It is without a doubt that computers have played a pivotal role within the lives of billions of people worldwide. However, as powerful as a tool computers are, most require physical interaction in order to access them - creating a barrier for those who suffer from mobility impairments due to limited hand functionality. There have been hardware configured specifically to cater to these individuals in the past, however, most of these extensions are very expensive and not everyone is able to afford them. As a solution, we envisioned BlinkPilot - a hands-free control software rather than hardware which only requires a working webcam (built into most laptops) to use, promoting accessibility to computers to those with mobility disabilities both physically and financially.
 
 ## Overview
-![Devpost Project](https://devpost.com/software/vislink-visual-link?ref_content=my-projects-tab&ref_feature=my_projects)
+<img src="BlinkPilot/BlinkPilot/blinkpilot assets/overview.png" alt="Logo" width="200">
 
 ## Installation
 To start, clone the git repository
